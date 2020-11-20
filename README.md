@@ -9,8 +9,6 @@ Technology:
 
 - React-Bootstrap UI library
 
-- How to structure components
-
 - Component level state & props
 
 - Global state mgmt with Redux (Actions & Reducers)
